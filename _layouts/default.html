@@ -1,18 +1,19 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-US">
 	<head>
 		<title>{{ page.title }}</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link type="text/css" href="css/style.css" rel="stylesheet" media="all">
 	</head>
 	<body>
-		<header>
-			<a href="/">Home</a>
+		<header role="banner">
 			{% include nav.html %}
 		</header>
-		<div class="content">
+		<div class="content" role="main">
 			{{ content }}
 		</div>
-		<footer>
+		<footer role="contentinfo">
 			See ya.
 		</footer>
 	</body>

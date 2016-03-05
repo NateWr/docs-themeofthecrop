@@ -1,14 +1,28 @@
-<nav>
+<nav role="navigation">
 	<ul>
+
+		{% for section in site.data[page.nav].menu %}
 		<li>
-			<a href="#">
-				One
+			<a href="{{ site.data[page.nav].base }}/{{ section.page }}">
+				{{ section.title }}
 			</a>
+
+			{% if section.items != null %}
+			<ul>
+
+				{% for item in section.items %}
+				<li>
+					<a href="{{ site.data[page.nav].base }}/{{ item.page }}">
+						{{ item.title }}
+					</a>
+				</li>
+				{% endfor %}
+
+			</ul>
+			{% endif %}
+
 		</li>
-		<li>
-			<a href="#">
-				Two
-			</a>
-		</li>
+		{% endfor %}
+
 	</ul>
 </nav>
