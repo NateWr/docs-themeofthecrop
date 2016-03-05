@@ -3,8 +3,17 @@
 ---
 
 @import "variables";
+@import "syntax-highlighter";
 
 body {
-	background: red;
-	color: $color;
+	background: #eee;
+	color: rgba(0,0,0,0.9);
+}
+
+.highlight {
+	margin: $double 0;
+}
+
+pre {
+	padding: $double;
 }
