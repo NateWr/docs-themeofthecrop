@@ -1,10 +1,10 @@
-<nav role="navigation">
-	<h2>{{ site.data.nav[page.slug].title }}</h2>
+<nav class="sidebar" role="navigation">
+	<h2 class="screen-reader">{{ site.data[page.slug].title }} Documentation Menu</h2>
 	<ul>
 
-		{% for section in site.data.nav[page.slug].menu %}
+		{% for section in site.data[page.slug].menu %}
 		<li>
-			<a href="/{{ site.data.nav[page.slug].base }}/{{ section.page }}">
+			<a href="/{{ site.data[page.slug].base }}/{{ section.page }}">
 				{{ section.title }}
 			</a>
 
@@ -13,7 +13,7 @@
 
 				{% for item in section.items %}
 				<li>
-					<a href="/{{ site.data.nav[page.slug].base }}/{{ item.page }}">
+					<a href="/{{ site.data[page.slug].base }}/{{ item.page }}">
 						{{ item.title }}
 					</a>
 				</li>

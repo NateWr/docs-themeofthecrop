@@ -9,4 +9,4 @@ To do this:
 3. Once the plugin has been installed and activated, click the **Install Demo Content** button next to each plugin.
 4. After the demo content has been generated, click the **View Demo** link to jump to the demo content.
 
-Each plugin's demo generates a **Page** in your WordPress site that you can view. To find where the data has been stored, you'll want to consult the documentation for each of the [recommended plugins](/{{ site.data[slug].base}}/user/plugins).
+Each plugin's demo generates a **Page** in your WordPress site that you can view. To find where the data has been stored, you'll want to consult the documentation for each of the [recommended plugins](/{{ site.data[page.slug].base}}/user/plugins).

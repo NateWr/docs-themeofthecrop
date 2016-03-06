@@ -2,8 +2,34 @@
 // Layout
 //
 
+.content-wrapper {
+	@extend .clearfix;
+	margin-top: $big;
+}
+
+.sidebar {
+	float: left;
+	width: 300px;
+	margin-left: 40px;
+}
+
+.content {
+	margin-left: 380px;
+	max-width: 35em;
+}
+
 footer {
+	@extend .clearfix;
+	clear: both;
 	margin-top: $double;
-	padding-top: $double;
-	border-top: 1px solid #ddd;
+	padding: $double $big;
+	border-top: $border;
+}
+
+@media(min-width: 1400px) {
+
+	.content {
+		margin-left: auto;
+		margin-right: auto;
+	}
 }

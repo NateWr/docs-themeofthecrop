@@ -7,11 +7,13 @@ This theme recommends a small collection of best-in-class plugins to help you bu
 When installing the plugins, you may be asked for your *FTP login credentials* so that WordPress can install the files to your website. If you don't know what these are, contact your web host for help.
 
 ## What about my commercial addon purchases? ##
-If you purchased a bundle which included commercial addons for any of my plugins, you'll need to install these addons one-by-one. To do this:
+If you purchased a bundle which included commercial addons for any of my plugins, you'll need to install these addons one-by-one. Your purchase receipt will include links for you to download the <code>.zip</code> files for each plugin.
+
+Once downloaded, follow these steps to install each one:
 
 1. Go to the **Plugins** page in your WordPress admin area.
 2. Click the **Add Plugin** link at the top.
-3. On the next page, click the **Upload Plugin** link at the top and follow the steps to find and upload the addon's <code>.zip</code> file.
+3. On the next page, click the **Upload Plugin** link at the top and follow the steps to upload the addon's <code>.zip</code> file.
 4. Once uploaded, click on the **Activate Plugin** link to activate it.
 
 ## Do I need all of these plugins? ##

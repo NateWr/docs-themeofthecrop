@@ -1,8 +1,13 @@
 title: Luigi v1.0
 base: themes/luigi
+
+docs:
+  - title: User Guide
+    page:
+
 menu:
   - title: Getting Started
-    page: 
+    page:
     flags: getting-started
     items:
     - title: Install Theme

@@ -1,0 +1,47 @@
+//
+// Global header
+//
+header {
+	padding: $double $big;
+	background: $bg-pop;
+	color: $text-pop-bg;
+
+	.title {
+		margin-bottom: $half;
+		font-size: $font-lead;
+		font-weight: $bold;
+		line-height: $line-lead;
+		color: #fff;
+	}
+
+	a {
+		font-weight: $normal;
+		text-decoration: underline;
+		color: $text-pop-bg;
+		opacity: 1;
+
+		&:visited {
+			color: $text-pop-bg;
+		}
+
+		&:hover,
+		&:focus {
+			color: #fff;
+		}
+	}
+
+	ul {
+		@extend .unstyled-list;
+		font-size: $font-sml;
+		line-height: $line-sml;
+
+		li {
+			display: inline-block;
+			margin-right: 1em;
+
+			&:last-child {
+				margin-right: 0;
+			}
+		}
+	}
+}
