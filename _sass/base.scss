@@ -59,4 +59,8 @@ code {
 		border: $base solid #fff;
 		box-shadow: 0 0 2px rgba(0,0,0,0.2);
 	}
+
+	strong {
+		color: $text-light;
+	}
 }

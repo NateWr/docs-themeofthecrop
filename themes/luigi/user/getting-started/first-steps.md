@@ -3,7 +3,7 @@ layout: default
 slug: luigi
 title: Recommended first steps to start building your site
 ---
-Now that you've [installed the theme](install) and [activated your plugins](activate-plugins), you're ready to go. If you're familiar with WordPress, you can start playing right away. But here are a couple things I recommend you do first:
+Now that you've [installed the theme](install) and [activated your plugins](activate-plugins), you're ready to go. If you're familiar with WordPress, you can start playing right away. But here are a couple things I recommend you do first.
 
 ## Create a menu for your site
 

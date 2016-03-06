@@ -41,7 +41,7 @@ menu:
     - title: How do I build my restaurant's menu?
       page: user/faq#menu
 
-    - title: How do I set up reservations for my restaurant?
+    - title: How do I take reservations for my restaurant?
       page: user/faq#reservations
 
     - title: How do I display my restaurant's contact details?
@@ -65,7 +65,7 @@ menu:
     - title: Can I hide the sidebar on just one page?
       page: user/faq#full-width-page-template
 
-    - title: Can I make changes to the CSS styles>
+    - title: Can I make changes to the CSS styles?
       page: user/faq#css-changes
 
     - title: How do I contact support?
