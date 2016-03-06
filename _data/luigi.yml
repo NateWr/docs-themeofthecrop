@@ -45,7 +45,7 @@ menu:
       page: user/faq#reservations
 
     - title: How do I display my restaurant's contact details?
-      page: user/faq#show-contact-details
+      page: user/faq#business-profile
 
     - title: How do I add reviews of my restaurant?
       page: user/faq#reviews
