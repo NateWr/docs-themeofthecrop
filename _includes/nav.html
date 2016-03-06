@@ -1,9 +1,10 @@
 <nav role="navigation">
+	<h2>{{ site.data.nav[page.slug].title }}</h2>
 	<ul>
 
-		{% for section in site.data[page.nav].menu %}
+		{% for section in site.data.nav[page.slug].menu %}
 		<li>
-			<a href="{{ site.data[page.nav].base }}/{{ section.page }}">
+			<a href="/{{ site.data.nav[page.slug].base }}/{{ section.page }}">
 				{{ section.title }}
 			</a>
 
@@ -12,7 +13,7 @@
 
 				{% for item in section.items %}
 				<li>
-					<a href="{{ site.data[page.nav].base }}/{{ item.page }}">
+					<a href="/{{ site.data.nav[page.slug].base }}/{{ item.page }}">
 						{{ item.title }}
 					</a>
 				</li>

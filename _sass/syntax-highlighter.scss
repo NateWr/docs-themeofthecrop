@@ -1,4 +1,12 @@
-// https://github.com/richleland/pygments-css/blob/master/zenburn.css
+.highlight {
+	margin: $double 0;
+}
+
+pre {
+	padding: $double;
+}
+
+// See: https://github.com/richleland/pygments-css/blob/master/zenburn.css
 .code, pre{color:#fdce93;background-color:#3f3f3f}
 .hll{background-color:#222}
 .c{color:#7f9f7f}

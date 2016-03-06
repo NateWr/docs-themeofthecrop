@@ -2,18 +2,7 @@
 # Empty front matter
 ---
 
-@import "variables";
+@import "_variables";
+@import "scaffold";
+@import "base";
 @import "syntax-highlighter";
-
-body {
-	background: #eee;
-	color: rgba(0,0,0,0.9);
-}
-
-.highlight {
-	margin: $double 0;
-}
-
-pre {
-	padding: $double;
-}

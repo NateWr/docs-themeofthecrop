@@ -1,7 +1,9 @@
+title: Luigi v1.0
 base: themes/luigi
 menu:
   - title: Getting Started
-    page: user/getting-started
+    page: 
+    flags: getting-started
     items:
     - title: Install Theme
       page: user/getting-started/install
@@ -17,6 +19,7 @@ menu:
 
   - title: FAQ
     page: user/faq
+    flags: faq
     items:
     - title: How do I change the colors of my site?
       page: user/faq#colors
@@ -71,6 +74,7 @@ menu:
 
   - title: Recommended Plugins
     page: user/plugins
+    flags: plugins
     items:
     - title: Food and Drink Menu
       redirect: user/plugins/food-and-drink-menu
