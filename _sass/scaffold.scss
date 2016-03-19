@@ -5,17 +5,17 @@
 .content-wrapper {
 	@extend .clearfix;
 	margin-top: $big;
+	margin-left: 40px;
+	margin-right: 40px;
 }
 
 .sidebar {
-	float: left;
-	width: 300px;
-	margin-left: 40px;
+	margin-top: 100px;
 }
 
-.content {
-	margin-left: 380px;
+.content article {
 	max-width: 35em;
+	margin: 0 auto;
 }
 
 footer {
@@ -26,10 +26,56 @@ footer {
 	border-top: $border;
 }
 
-@media(min-width: 1400px) {
+@media(min-width: 992px) {
 
-	.content {
+	.content-wrapper {
 		margin-left: auto;
 		margin-right: auto;
+		width: 992px - 80;
+	}
+
+	.sidebar {
+		float: left;
+		width: 300px;
+		margin-top: 0;
+	}
+
+	.content {
+		float: right;
+		width: 992px - 300 - 80 - 40;
+	}
+}
+
+@media(min-width: 1200px) {
+
+	.content-wrapper {
+		width: 1200px - 80;
+	}
+
+	.content {
+		width: 1200px - 300 - 80 - 40;
+		padding-right: 300px;
+	}
+}
+
+@media(min-width: 1400px) {
+
+	.content-wrapper {
+		width: 1400px - 80;
+	}
+
+	.content {
+		width: 1400px - 300 - 80 - 40;
+	}
+}
+
+@media(min-width: 1800px) {
+
+	.content-wrapper {
+		width: 1800px - 80;
+	}
+
+	.content {
+		width: 1800px - 300 - 80 - 40;
 	}
 }
