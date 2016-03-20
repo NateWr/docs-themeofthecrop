@@ -62,6 +62,6 @@ To add a component, follow these steps:
 
 {% include theme/user/faq/support.md %}
 
-{% include theme/user/faq/refund.md %}
+{% include faq/refund.md %}
 
-{% include theme/user/faq/more-help.md %}
+{% include faq/more-help.md %}

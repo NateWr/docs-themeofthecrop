@@ -49,6 +49,12 @@ code {
 	color: #ccc;
 }
 
+hr {
+	margin: 80px 50% 80px 0;
+	border: none;
+	border-top: $border;
+}
+
 .entry-content {
 
 	img {
@@ -59,4 +65,5 @@ code {
 	strong {
 		color: $text-light;
 	}
+
 }
