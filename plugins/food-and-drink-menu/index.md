@@ -1,6 +1,7 @@
 ---
 layout: default
 slug: food-and-drink-menu
+menu: user
 title: Food and Drink Menu Documentation
 ---
 This user guide and developer documentation will help you use [Food and Drink Menu](https://wordpress.org/plugins/food-and-drink-menu/), a WordPress plugin for restaurant menus that is free to download and use on any website built with WordPress.

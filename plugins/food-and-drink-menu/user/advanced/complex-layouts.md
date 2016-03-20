@@ -1,6 +1,7 @@
 ---
 layout: default
 slug: food-and-drink-menu
+menu: user
 title: Build menus with complex layouts
 ---
 You may need a menu layout that is more complex than a one- or two-column layout. When these situations arise, there are a few paths you can take.

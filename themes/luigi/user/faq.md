@@ -1,6 +1,7 @@
 ---
 layout: default
 slug: luigi
+menu: user
 title: Frequently Asked Questions
 ---
 Quick answers to your most pressing questions. Anything missing? [Let me know](http://themeofthecrop.com/about/support/).

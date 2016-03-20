@@ -5,7 +5,7 @@ docs:
   - title: User Guide
     page:
 
-menu:
+user:
   - title: Getting Started
     page:
     flags: getting-started

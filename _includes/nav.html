@@ -2,7 +2,7 @@
 	<h2 class="screen-reader">{{ site.data[page.slug].title }} Documentation Menu</h2>
 	<ul>
 
-		{% for section in site.data[page.slug].menu %}
+		{% for section in site.data[page.slug][page.menu] %}
 		<li>
 			<a href="/{{ site.data[page.slug].base }}/{{ section.page }}">
 				{{ section.title }}

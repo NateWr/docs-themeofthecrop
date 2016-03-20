@@ -1,6 +1,7 @@
 ---
 layout: default
 slug: food-and-drink-menu
+menu: user
 title: Install Plugin
 ---
 *If you have not yet installed WordPress, consult the WordPress documentation for more information. You may want to contact your web host for help installing WordPress.*

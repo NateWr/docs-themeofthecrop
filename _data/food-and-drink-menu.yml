@@ -7,7 +7,7 @@ docs:
   - title: Developer Documentation
     page: developer
 
-menu:
+user:
   - title: Getting Started
     page: user
     flags: getting-started
@@ -86,3 +86,7 @@ menu:
 
     - title: I'm in over my head. Where can I get more hands-on help?
       page: user/faq#more-help
+
+developer:
+  - title: Introduction
+    page:

@@ -1,6 +1,7 @@
 ---
 layout: default
 slug: food-and-drink-menu
+menu: user
 title: Frequently Asked Questions (FAQ)
 ---
 Quick answers to your most common questions. Anything missing? [Let me know](http://themeofthecrop.com/about/support).

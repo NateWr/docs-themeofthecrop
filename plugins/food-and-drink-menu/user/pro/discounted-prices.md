@@ -1,6 +1,7 @@
 ---
 layout: default
 slug: food-and-drink-menu
+menu: user
 title: Discounted Prices (Pro)
 ---
 When you [create or edit a Menu Item](../getting-started/create-menu#create-menu-item), you'll see the input area for the price now has an extra field for entering a discounted price.

@@ -1,6 +1,7 @@
 ---
 layout: default
 slug: food-and-drink-menu
+menu: user
 title: Menu Icons (Pro)
 ---
 When you [create or edit a Menu Item](../getting-started/create-menu#create-menu-item) with the [Pro addon](../pro), you'll see a panel for adding **Menu Item Flags**. These flags can be used to designate information such as vegetarian dishes, organic produce, Halal or Kosher options and more.

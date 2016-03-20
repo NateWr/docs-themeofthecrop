@@ -1,6 +1,7 @@
 ---
 layout: default
 slug: food-and-drink-menu
+menu: user
 title: Shortcodes
 ---
 There are two shortcodes available with this plugin, one for displaying a full Menu and one for displaying a single Menu Item. Below you'll find a list of the attributes available.

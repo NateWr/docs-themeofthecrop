@@ -1,6 +1,7 @@
 ---
 layout: default
 slug: food-and-drink-menu
+menu: user
 title: Settings
 ---
 This plugin includes a few settings to help you configure it for your needs. You can access these settings by going to the **Menus > Settings** page in your WordPress admin area.

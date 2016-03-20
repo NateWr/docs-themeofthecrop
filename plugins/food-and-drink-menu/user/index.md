@@ -1,6 +1,7 @@
 ---
 layout: default
 slug: food-and-drink-menu
+menu: user
 title: Food and Drink Menu User Guide
 ---
 The user guide is for anyone who wants to learn how to [install the  plugin](getting-started/install), [create menus](getting-started/create-menu) and [display them on your WordPress website](di).

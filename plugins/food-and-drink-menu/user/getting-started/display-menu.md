@@ -1,6 +1,7 @@
 ---
 layout: default
 slug: food-and-drink-menu
+menu: user
 title: Display Menu
 ---
 Once you've [created a menu](create-menu), you can display it on your website in a variety of ways.

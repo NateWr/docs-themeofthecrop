@@ -1,6 +1,7 @@
 ---
 layout: default
 slug: food-and-drink-menu
+menu: user
 title: Create a Menu
 ---
 To build a menu you will first create **Menu Items**, assign them to **Menu Sections** and then add those to a **Menu**.
