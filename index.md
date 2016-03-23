@@ -1,8 +1,10 @@
 ---
 layout: landing
-title: All Documentation for Plugins and Themes from Theme of the Crop
+title: Theme of the Crop Documentation
 ---
-[Theme of the Crop](http://themeofthecrop.com) produces WordPress plugins and themes to help you __*build better restaurant websites*__. This includes a range of [beautiful restaurant themes](http://themeofthecrop.com/themes) as well as a suite of free plugins you can install and use on any site free of charge. Some of these plugins have [commercial addons](http://themeofthecrop.com/plugins) you can purchase for advanced features.
+[Theme of the Crop](http://themeofthecrop.com) produces WordPress plugins and themes to help you __*build better restaurant websites*__.
+
+This includes a range of [beautiful restaurant themes](http://themeofthecrop.com/themes) as well as a suite of **free plugins** you can install and use on any site free of charge. Some of these plugins have [commercial addons](http://themeofthecrop.com/plugins) you can purchase for advanced features.
 
 If you're looking to download or buy any of these products, [visit the website](http://themeofthecrop.com).
 
