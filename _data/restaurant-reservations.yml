@@ -1,0 +1,103 @@
+title: Restaurant Reservations
+base: plugins/restaurant-reservations
+
+docs:
+  - title: User Guide
+    page: user
+  - title: Developer Documentation
+    page: developer
+
+user:
+  - title: Getting Started
+    page: user
+    flags: getting-started
+    items:
+    - title: Install Plugin
+      page: user/getting-started/install
+
+    - title: Quick Setup
+      page: user/getting-started/setup
+
+  - title: Manage Bookings
+    page: user/manage
+    flags: manage
+    items:
+    - title: Confirm and Reject Bookings
+      page: user/manage/confirm-reject-bookings
+
+    - title: Find Bookings
+      page: user/manage/find-bookings
+
+    - title: Send Emails
+      page: user/manage/send-emails
+
+  - title: Configure Your Bookings
+    page: user/config
+    flags: config
+    items:
+    - title: General Settings
+      page: user/config/general
+
+    - title: Set the Booking Schedule
+      page: user/config/schedule
+
+    - title: Email Notifications
+      page: user/config/email-notifications
+
+  - title: Custom Fields (addon)
+    page: user/addon/custom-fields
+    flags: custom-fields
+    items:
+    - title:
+      page:
+
+  - title: MailChimp (addon)
+    page: user/addon/mailchimp
+    flags: mailchimp
+    items:
+    - title:
+      page:
+
+  - title: Export Bookings (addon)
+    page: user/addon/export-bookings
+    flags: export-bookings
+    items:
+    - title:
+      page:
+
+  - title: FAQ
+    page: user/faq
+    flags: faq
+    items:
+    - title: How do I change the order of items on my menu?
+      page: user/faq#menu-item-order
+
+    - title: How do I show multiple prices?
+      page: user/faq#multiple-prices
+
+    - title: I have a two-column menu but it displays in one column.
+      page: user/faq#columns-collapsed
+
+    - title: How can I show that a collection of dishes come with a side?
+      page: user/faq#section-description
+
+    - title: Can I customize the look and layout of my menu?
+      page: user/faq#customize
+
+    - title: How can I indicate that we add a gratuity?
+      page: user/faq#footer
+
+    - title: I need to mark some dishes as vegetarian, spicy or similar?
+      page: user/faq#menu-icons
+
+    - title: Is this compatible with WPML?
+      page: user/faq#wpml
+
+    - title: How do I contact support?
+      page: user/faq#support
+
+    - title: Can I get a refund?
+      page: user/faq#refund
+
+    - title: I'm in over my head. Where can I get more hands-on help?
+      page: user/faq#more-help
