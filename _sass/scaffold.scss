@@ -27,17 +27,18 @@ footer nav > ul {
 		width: 992px - 80;
 	}
 
+	.has-sidebar .content,
+	footer nav {
+		float: right;
+		width: 992px - 300 - 80 - 40;
+	}
+
 	.sidebar {
 		float: left;
 		width: 300px;
 		margin-top: 0;
 	}
 
-	.content,
-	footer nav {
-		float: right;
-		width: 992px - 300 - 80 - 40;
-	}
 }
 
 @media(min-width: 1200px) {
@@ -47,7 +48,7 @@ footer nav > ul {
 		width: 1200px - 80;
 	}
 
-	.content,
+	.has-sidebar .content,
 	footer nav {
 		width: 1200px - 300 - 80 - 40;
 	}
@@ -60,7 +61,7 @@ footer nav > ul {
 		width: 1400px - 80;
 	}
 
-	.content,
+	.has-sidebar .content,
 	footer nav {
 		width: 1400px - 300 - 80 - 40;
 		padding-right: 300px;
