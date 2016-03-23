@@ -1,8 +1,33 @@
 //
 // Global header
 //
+.back-links {
+	padding: 10px 40px;;
+	font-size: 14px;
+	text-align: right;
+
+	a {
+		display: inline-block;
+		line-height: 20px;
+		vertical-align: bottom;
+		opacity: 1;
+
+		img {
+			display: inline-block;
+			height: 20px;
+			margin: 5px 0;
+		}
+
+		span {
+			line-height: 30px;
+			vertical-align: top;
+			margin-left: 0.5em;
+		}
+	}
+}
+
 header {
-	padding: $double $big;
+	padding: $big;
 	background: $bg-pop;
 	color: $text-pop-bg;
 
