@@ -86,7 +86,3 @@ user:
 
     - title: I'm in over my head. Where can I get more hands-on help?
       page: user/faq#more-help
-
-developer:
-  - title: Introduction
-    page:
