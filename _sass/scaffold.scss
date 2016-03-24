@@ -2,6 +2,10 @@
 // Layout
 //
 
+.header-wrapper {
+	@extend .clearfix;
+}
+
 .content-wrapper,
 .footer-wrapper {
 	@extend .clearfix;
@@ -20,6 +24,7 @@ footer nav > ul {
 
 @media(min-width: 992px) {
 
+	.header-wrapper,
 	.content-wrapper,
 	.footer-wrapper {
 		margin-left: auto;
@@ -43,6 +48,7 @@ footer nav > ul {
 
 @media(min-width: 1200px) {
 
+	.header-wrapper,
 	.content-wrapper,
 	.footer-wrapper {
 		width: 1200px - 80;
@@ -56,6 +62,7 @@ footer nav > ul {
 
 @media(min-width: 1400px) {
 
+	.header-wrapper,
 	.content-wrapper,
 	.footer-wrapper {
 		width: 1400px - 80;
