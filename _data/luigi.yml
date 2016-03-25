@@ -1,4 +1,4 @@
-title: Luigi v1.0
+title: Luigi
 base: themes/luigi
 
 docs:
@@ -82,22 +82,25 @@ user:
     flags: plugins
     items:
     - title: Food and Drink Menu
-      redirect: user/plugins/food-and-drink-menu
+      redirect: user/plugins#food-and-drink-menu
 
     - title: Restaurant Reservations
-      redirect: user/plugins/restaurant-reservations
+      redirect: user/plugins#restaurant-reservations
 
     - title: Business Profile
-      redirect: user/plugins/business-profile
+      redirect: user/plugins#business-profile
 
     - title: Good Reviews for WordPress
-      redirect: user/plugins/good-reviews-wp
+      redirect: user/plugins#good-reviews-wp
 
     - title: Ninja Forms
-      page: user/plugins/ninja-forms
+      page: user/plugins#ninja-forms
 
     - title: Yoast SEO
-      page: user/plugins/yoast-seo
+      page: user/plugins#yoast-seo
 
     - title: Event Organiser
-      page: user/plugins/event-organiser
+      page: user/plugins#event-organiser
+
+    - title: WP Featherlight
+      page: user/plugins#wp-featherlight
