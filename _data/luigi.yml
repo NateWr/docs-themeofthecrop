@@ -82,16 +82,16 @@ user:
     flags: plugins
     items:
     - title: Food and Drink Menu
-      redirect: user/plugins#food-and-drink-menu
+      page: user/plugins#food-and-drink-menu
 
     - title: Restaurant Reservations
-      redirect: user/plugins#restaurant-reservations
+      page: user/plugins#restaurant-reservations
 
     - title: Business Profile
-      redirect: user/plugins#business-profile
+      page: user/plugins#business-profile
 
     - title: Good Reviews for WordPress
-      redirect: user/plugins#good-reviews-wp
+      page: user/plugins#good-reviews-wp
 
     - title: Ninja Forms
       page: user/plugins#ninja-forms
