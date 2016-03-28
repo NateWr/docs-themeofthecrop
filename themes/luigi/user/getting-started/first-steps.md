@@ -8,7 +8,7 @@ Now that you've [installed the theme](install) and [activated your plugins](acti
 
 ## Create a menu for your site
 
-Go to the **Appearance > Menus** section in the admin panel. Once you've created a menu, look at the **Theme Locations** setting located below the menu and click the checkbox to activate it for the **Primary Navigation Menu** slot. This will be your main site navigation menu that appears at the top of your site, so you'll probably want all of your main pages linked from here.
+Go to the **Appearance > Menus** section in the admin panel. Once you've created a menu, look at the **Theme Locations** setting located below the menu and click the checkbox to activate it for the **Primary Location** slot. This will be your main site navigation menu that appears at the top of your site, so you'll probably want all of your main pages linked from here.
 
 ## Set up your business profile
 
@@ -28,6 +28,6 @@ Open the panel on the left near the bottom that is labeled **Static Front Page**
 
 ## Upload your logo
 
-Go to the **Appearance > Customiz**e menu section in the admin panel. Open the **Logo, Site Title and Tagline** panel on the left. Under the **Logo** section, click the **Select File** button to add a logo to your media library and select it as the logo.
+Go to the **Appearance > Customize** menu section in the admin panel. Open the **Logo, Site Title and Tagline** panel on the left. Under the **Logo** section, click the **Select File** button to add a logo to your media library and select it as the logo.
 
 You can adjust the scale of your logo if it appears to large or small. Make sure you click the **Save** button at the top to finalize your changes.

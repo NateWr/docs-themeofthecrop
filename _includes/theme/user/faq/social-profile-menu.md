@@ -6,7 +6,7 @@ To set this up, go to the **Appearance > Menus** page in your WordPress admin ar
 
 ![Screenshot of the Custom Links option in the WordPress navigation menu setup](/img/theme/social-profile-menu-custom-link.png)
 
-Once you've saved the links to your social media profiles, assign this menu to the **Social Profiles Menu** theme location.
+Once you've saved the links to your social media profiles, assign this menu to the **Social Profiles** theme location.
 
 ![Screenshot of the Theme Location setting in the WordPress navigation menu setup](/img/theme/social-profile-menu-theme-location.png)
 
