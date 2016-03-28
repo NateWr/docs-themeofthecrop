@@ -28,7 +28,7 @@ Once you've got your homepage set up, open the customizer from the **Appearance 
 
 To add a component, follow these steps:
 
-1. Click the **Add Component** button to open the list of available components. *If you are missing some of the [recommended plugins](/{{ site.data[page.slug].base}}/user/getting-started/activate-plugins), you may be missing some components.**
+1. Click the **Add Component** button to open the list of available components. *If you are missing some of the [recommended plugins](/{{ site.data[page.slug].base}}/user/getting-started/activate-plugins), you may be missing some components.*
 
 2. Select a component from the list. Try the **Hero Block** first.
 
