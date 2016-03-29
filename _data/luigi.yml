@@ -68,6 +68,9 @@ user:
     - title: Can I make changes to the CSS styles?
       page: user/faq#css-changes
 
+    - title: How can I change the fonts?
+      page: user/faq#typecase
+
     - title: How do I contact support?
       page: user/faq#support
 

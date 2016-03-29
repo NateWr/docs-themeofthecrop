@@ -61,6 +61,8 @@ To add a component, follow these steps:
 
 {% include theme/user/faq/css-changes.md %}
 
+{% include theme/user/faq/typecase.md %}
+
 {% include theme/user/faq/support.md %}
 
 {% include faq/refund.md %}
