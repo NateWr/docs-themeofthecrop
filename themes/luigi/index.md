@@ -6,3 +6,4 @@ title: Luigi User Guide
 content_include: theme/index.md
 theme_title: Luigi
 ---
+View the [theme demo](http://themeofthecrop.com/demo/luigi).
