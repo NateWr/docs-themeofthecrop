@@ -11,6 +11,7 @@
 						{% if page.content_include %}
 							{% capture markdown_include %}{% include {{ page.content_include }} %}{% endcapture %}
 							{{ markdown_include | markdownify }}
+							{{ content }}
 						{% else %}
 							{{ content }}
 						{% endif %}
