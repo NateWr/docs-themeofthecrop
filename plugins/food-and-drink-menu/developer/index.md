@@ -21,6 +21,7 @@ Until then, I'll list are a bunch of resources you may find useful. If you've go
 - [Customize your menu templates](http://themeofthecrop.com/2014/01/28/customize-restaurant-menu-templates/)
 - [Style a single section in your menu](http://themeofthecrop.com/2014/08/19/give-section-restaurant-menu-unique-style/)
 - [Create a complex menu layout](http://themeofthecrop.com/2014/07/31/achieve-complex-menu-layouts-food-drink-menu/)
+- A brief overview of [printing custom taxonomy term meta in a template](https://wordpress.org/support/topic/adding-meta-boxes-to-sections?replies=4#post-8416551) can be found in the reply to this support request.
 
 ## Code Snippets
 
