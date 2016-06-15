@@ -4,6 +4,8 @@ base: plugins/business-profile
 docs:
   - title: User Guide
     page: user
+  - title: Developer Documentation
+    page: developer
 
 user:
   - title: Getting Started
@@ -14,6 +16,9 @@ user:
       page: user/getting-started/install
     - title: Quick Setup
       page: user/getting-started/setup
+    - title: Multiple Locations
+      page: user/getting-started/locations
+
   - title: FAQ
     page: user/faq
     flags: faq
@@ -26,3 +31,15 @@ user:
       page: user/faq#schema-type
     - title: How do I contact support?
       page: user/faq#support
+
+developer:
+  - title: Developer Introduction
+    page: developer
+    flags: developer
+    items:
+      - title: Theme Support
+        page: developer/theme-support
+      - title: Templates
+        page: developer/templates
+      - title: Key Filters
+        page: developer/filters

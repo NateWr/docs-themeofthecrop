@@ -13,3 +13,7 @@ When you click on that button, you'll be presented with a few options to configu
 ![Screenshot showing the Export Bookings modal](/img/{{ page.slug }}/export-bookings-modal.png)
 
 If you have problems with the PDF export, please read the [FAQ](faq#corrupt-pdf-exports).
+
+---
+
+Version 1.1 introduced support for the [multiple location](../../manage/locations) feature. You can export just those bookings assigned to a particular location or all of your bookings.
