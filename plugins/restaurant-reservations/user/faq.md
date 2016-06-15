@@ -32,6 +32,8 @@ This is almost always the result of issues with your server and can be caused by
 4. If you're able to receive regular WordPress emails but not booking notifications, check your spam filters or junk mail folders.
 5. If you still haven't found the emails, contact your web host and let them know the date, time and email address where you expected to receive a booking. They should be able to check their logs to see what is happening to the email.
 
+If your web host is not able or willing to resolve the problem, or you'd like to explore more reliable email delivery, read [how I use Postmark to make sure emails are delivered every time](http://themeofthecrop.com/2016/05/24/make-sure-restaurant-emails-delivered-every-time/).
+
 ## <a name="required-phone-number"></a>Can I make the phone number required?
 
 This is a common request so I have written a small addon to do this for you. [Learn more](http://themeofthecrop.com/2015/01/08/simple-phone-validation-restaurant-reservations/).
