@@ -45,6 +45,9 @@ If you're not familiar with that process, I'd recommend you take a look at the [
 
 *If you make a translation, please help others out by adding it to the [GitHub repository](https://github.com/NateWr/restaurant-reservations) so that I can distribute it for others.*
 
+## <a name="early-late-restrictions"></a>I set Early or Late Bookings restrictions, but I scan still book during that time
+Users with the Administrator and Booking Manager roles are exempt from these restrictions. This is so that they can make last-minute changes to bookings as needed. If you want to test the Early or Late Bookings restrictions, try submitting a reservation while logged out from the site.
+
 ## <a name="custom-fields"></a>I want to add a field to the form. Can I do that?
 The [Custom Fields addon](http://themeofthecrop.com/plugin/custom-fields-restaurant-reservations)  will allow you to add a field or modify some of the existing fields of the booking form.
 

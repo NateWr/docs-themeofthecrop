@@ -105,6 +105,9 @@ user:
     - title: Can I translate the booking form?
       page: user/faq#translate
 
+    - title: I set Early or Late Bookings restrictions, but I scan still book during that time
+      page: user/faq#early-late-restrictions
+
     - title: I want to add a field to the form. Can I do that?
       page: user/faq#custom-fields
 
