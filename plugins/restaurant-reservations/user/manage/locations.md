@@ -9,7 +9,7 @@ Support for booking reservations for multiple locations was added in version 1.6
 
 _**Multi-location bookings requires the [Business Profile](http://wordpress.org/plugins/business-profile/) plugin.**_
 
-To get started, [install the Business Profile plugin](http://127.0.0.1:4000/plugins/business-profile/user/getting-started/install), [set up your restaurant profile](http://127.0.0.1:4000/plugins/business-profile/user/getting-started/setup) and then [enable multiple locations](http://127.0.0.1:4000/plugins/business-profile/user/getting-started/locations).
+To get started, [install the Business Profile plugin](../../../business-profile/user/getting-started/install), [set up your restaurant profile](../../../business-profile/user/getting-started/setup) and then [enable multiple locations](../../../business-profile/user/getting-started/locations).
 
 Once you create a location using the Business Profile plugin, the booking form will add a Locations field.
 
