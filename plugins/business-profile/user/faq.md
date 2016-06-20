@@ -28,6 +28,8 @@ Using `[contact-card show_name=0]` would show the whole contact card except for 
 
 - `show_map` &mdash; Whether or not to show a Google Map with your location.
 
+- `location` &mdash; An optional location post ID. If multi-locations are enabled, you can pass the ID of a location to display the contact card for that location instead of the main business profile.
+
 Most of these are turned on by default. But you can turn them off by including the attribute and setting it to `0`. The following would show only a map and none of the other details:
 
 `[contact-card show_name=0 show_address=0 show_get_directions=0 show_phone=0 show_contact=0 show_opening_hours=0]`
