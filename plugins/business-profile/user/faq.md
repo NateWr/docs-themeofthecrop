@@ -62,9 +62,9 @@ Enter whatever you'd like in the Name. The other part, **Accept requests from th
 
 The simplest way to do this is to replace `themeofthecrop.com` in the screenshot with your domain name. So if your site is `myrestaurant.com`, you would use:
 
-`*.myrestaurant.com/*`
+`myrestaurant.com/*`
 
-This will allow you to display the map anywhere on your domain, including subdomains like `anything.myrestaurant.com`.
+This will allow you to display the map anywhere on your domain.
 
 Once you've set this up, click the **Create** button to generate your API key. It will then be provided for you and you can click the small icon on the right to copy it.
 
