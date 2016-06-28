@@ -25,6 +25,8 @@ user:
     items:
     - title: Can I show or hide something with the shortcode?
       page: user/faq#shortcode
+    - title: It asks me for a Google Maps API Key but I don't know what it is or how to get it.
+      page: user/faq#google-maps-api-key
     - title: Google Maps shows my business in the wrong location.
       page: user/faq#map-latlon
     - title: What's a Schema Type?

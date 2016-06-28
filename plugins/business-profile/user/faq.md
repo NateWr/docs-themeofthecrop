@@ -38,6 +38,44 @@ The following would show the full contact card, but display the opening hours in
 
 `[contact-card show_opening_hours_brief=1]`
 
+## <a name="google-maps-api-key"></a> It asks me for a Google Maps API Key but I don't know what it is or how to get it.
+
+Google [now requires](https://googlegeodevelopers.blogspot.co.uk/2016/06/building-for-scale-updates-to-google.html) that you have your own API key to display a map on your website. This section walks you through the process of getting an API key.
+
+When entering your Business Profile, you'll see a Google Maps API key field.
+
+![Screenshot of the API Key field in Business Profile](/img/{{ page.slug }}/gmaps-key-enter-key.png)
+
+Click the link in the field description that will take you to the Google Maps website. Then find the following button on the Google Maps website which reads "Get a Key".
+
+![Screenshot of the Get Key button on Google Maps' website](/img/{{ page.slug }}/gmaps-key-get-key.png)
+
+You'll then be asked to accept the terms of use for the API. Google puts limits on the amount of requests you can make in a day. It's currently set at 25,000 per day, which should be plenty for almost all restaurants.
+
+![Screenshot of the form to accept terms on Google Maps' website](/img/{{ page.slug }}/gmaps-key-accept-terms.png)
+
+On the following screen, you'll be asked to set a Name and the websites this will be active on.
+
+![Screenshot of the form to enter domain details on Google Maps' website](/img/{{ page.slug }}/gmaps-key-enter-domain.png)
+
+Enter whatever you'd like in the Name. The other part, **Accept requests from these HTTP referrers (web sites)** can be a bit more tricky.
+
+The simplest way to do this is to replace `themeofthecrop.com` in the screenshot with your domain name. So if your site is `myrestaurant.com`, you would use:
+
+`*.myrestaurant.com/*`
+
+This will allow you to display the map anywhere on your domain, including subdomains like `anything.myrestaurant.com`.
+
+Once you've set this up, click the **Create** button to generate your API key. It will then be provided for you and you can click the small icon on the right to copy it.
+
+![Screenshot of the form to copy your API key from Google Maps' website](/img/{{ page.slug }}/gmaps-key-copy-key.png)
+
+Paste that key into the API Key field in your Business Profile settings. Then save your settings.
+
+![Screenshot of the API Key field in Business Profile](/img/{{ page.slug }}/gmaps-key-enter-key.png)
+
+**Please note:** Google says it may take up to 5 minutes for your key to take effect. In my experience, it could take even longer. You may continue to see an error in your map for up to 30 minutes, so give it plenty of time.
+
 ## <a name="map-latlon"></a> Google Maps shows my business in the wrong location
 
 Unfortunately, in some cases Google is unable to find the right latitude and longitude to match your address.

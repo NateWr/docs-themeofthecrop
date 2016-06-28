@@ -8,7 +8,7 @@ Once the plugin is [installed and activated](install), go to the new **Business 
 
 ![Screenshot of the business profile page](/img/{{ page.slug }}/business-profile.png)
 
-On this page you can enter your business name, contact information and opening hours. You'll also be asked to enter a few details you might not understand. The [FAQ](../faq#schema-type) explains a few of the details.
+On this page you can enter your business name, contact information and opening hours. You'll also be asked to enter a few details you might not understand. The [FAQ](../faq) explains more details about the [Schema Type](../faq#schema-type) as well as the [Google Maps API Key](../faq/#google-maps-api-key).
 
 ## Display your contact card
 
