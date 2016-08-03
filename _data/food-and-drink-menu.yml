@@ -50,6 +50,9 @@ user:
     - title: Sources and Suppliers
       page: user/pro/sources
 
+    - title: Set up your Google Maps API Key
+      page: user/pro/google-map-api-key
+
   - title: FAQ
     page: user/faq
     flags: faq

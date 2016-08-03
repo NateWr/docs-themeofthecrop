@@ -14,6 +14,10 @@ This is great for showcasing the provenance of certain coffee blends or showing 
 
 ![Screenshot of a menu item with source and supplier information](/img/{{ page.slug }}/pro-source-display.png)
 
+## When I add an address, the map doesn't appear.
+
+Google now requires that you have your own API key to display a map on your website. Learn more about how to [set up your API key](google-map-api-key).
+
 ---
 
 *Sources and Suppliers are only available in the [Pro addon](../pro).*
