@@ -41,7 +41,7 @@ When multiple locations are enabled, you can pass a new `location` attribute to 
 
 So if your location has an ID of 123, the following shortcode would print a booking form in which all bookings would automatically be assigned to that location.
 
-	[contact-card location=123]
+	[booking-form location=123]
 
 
 ## Common questions/problems
