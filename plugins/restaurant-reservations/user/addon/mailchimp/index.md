@@ -4,7 +4,7 @@ slug: restaurant-reservations
 menu: user
 title: MailChimp (addon)
 ---
-[MailChimp for Restaurant Reservations](http://themeofthecrop.com/plugin/mailchimp-restaurant-reservations/) is a commercial addon for [Restaurant Reservations](https://wordpress.org/plugins/restaurant-reservations) which allows you to subscribe customers booking tables to your [MailChimp](http://mailchimp.com) mailing list.
+[MailChimp for Restaurant Reservations](https://themeofthecrop.com/plugin/mailchimp-restaurant-reservations/) is a commercial addon for [Restaurant Reservations](https://wordpress.org/plugins/restaurant-reservations) which allows you to subscribe customers booking tables to your [MailChimp](http://mailchimp.com) mailing list.
 
 In order to use this plugin, you'll need a [MailChimp](http://mailchimp.com) account.
 

@@ -14,13 +14,13 @@ The developer documentation is not complete. When it is, it will be a handy refe
 
 Until then, I'll list are a bunch of resources you may find useful. If you've got a question, post on the [support forums](http://wordpress.org/support/plugin/food-and-drink-menu) or the [GitHub repository](https://github.com/NateWr/food-and-drink-menu).
 
-*Sign up for my [mailing list](http://themeofthecrop.com/about/mailing-list) to be notified when this documentation is complete.*
+*Sign up for my [mailing list](https://themeofthecrop.com/about/mailing-list) to be notified when this documentation is complete.*
 
 ## Tutorials
 
-- [Customize your menu templates](http://themeofthecrop.com/2014/01/28/customize-restaurant-menu-templates/)
-- [Style a single section in your menu](http://themeofthecrop.com/2014/08/19/give-section-restaurant-menu-unique-style/)
-- [Create a complex menu layout](http://themeofthecrop.com/2014/07/31/achieve-complex-menu-layouts-food-drink-menu/)
+- [Customize your menu templates](https://themeofthecrop.com/2014/01/28/customize-restaurant-menu-templates/)
+- [Style a single section in your menu](https://themeofthecrop.com/2014/08/19/give-section-restaurant-menu-unique-style/)
+- [Create a complex menu layout](https://themeofthecrop.com/2014/07/31/achieve-complex-menu-layouts-food-drink-menu/)
 - A brief overview of [printing custom taxonomy term meta in a template](https://wordpress.org/support/topic/adding-meta-boxes-to-sections?replies=4#post-8416551) can be found in the reply to this support request.
 
 ## Code Snippets

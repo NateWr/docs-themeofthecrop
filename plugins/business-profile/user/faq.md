@@ -4,7 +4,7 @@ slug: business-profile
 menu: user
 title: Frequently Asked Questions
 ---
-Quick answers to your most common questions. Anything missing? [Let me know](http://themeofthecrop.com/about/support).
+Quick answers to your most common questions. Anything missing? [Let me know](https://themeofthecrop.com/about/support).
 
 ## <a name="shortcode"></a> Can I show or hide something with the shortcode?
 

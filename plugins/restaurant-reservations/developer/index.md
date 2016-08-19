@@ -16,7 +16,7 @@ When it is, it will be a handy reference for every hook, as well as the place to
 
 Until then, I'll list are a bunch of resources you may find useful. If you've got a question, post on the [support forums](http://wordpress.org/support/plugin/restaurant-reservations) or the [GitHub repository](https://github.com/NateWr/restaurant-reservations).
 
-*Sign up for my [mailing list](http://themeofthecrop.com/about/mailing-list) to be notified when this documentation is complete.*
+*Sign up for my [mailing list](https://themeofthecrop.com/about/mailing-list) to be notified when this documentation is complete.*
 
 ## Tutorials
 
@@ -25,8 +25,8 @@ Until then, I'll list are a bunch of resources you may find useful. If you've go
 ## Code Snippets
 
 - The `$fields` array you can use to [customize the form output](https://github.com/NateWr/restaurant-reservations/blob/master/includes/Settings.class.php#L727-L834).
-- [Basic Capacity Management Addons](http://themeofthecrop.com/2015/05/19/basic-capacity-management-addons-for-restaurant-reservations/)
-- [Simple Phone Validation](http://themeofthecrop.com/2015/01/08/simple-phone-validation-restaurant-reservations/)
+- [Basic Capacity Management Addons](https://themeofthecrop.com/2015/05/19/basic-capacity-management-addons-for-restaurant-reservations/)
+- [Simple Phone Validation](https://themeofthecrop.com/2015/01/08/simple-phone-validation-restaurant-reservations/)
 - [Override the From email address used in booking notification emails](https://gist.github.com/NateWr/fbbe6f0eafa7359de161)
 - [Automatically confirm new booking requests](https://gist.github.com/NateWr/00ee083db4d357aeab68)
 - [Add options to block bookings 2, 3 or 4 days in advance](https://gist.github.com/NateWr/c8b86771e979a06b1afb)

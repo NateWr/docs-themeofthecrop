@@ -4,7 +4,7 @@ slug: luigi
 menu: user
 title: Frequently Asked Questions
 ---
-Quick answers to your most pressing questions. Anything missing? [Let me know](http://themeofthecrop.com/about/support/).
+Quick answers to your most pressing questions. Anything missing? [Let me know](https://themeofthecrop.com/about/support/).
 
 ## <a name="colors"></a> How do I change the colors of my site?
 

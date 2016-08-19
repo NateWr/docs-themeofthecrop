@@ -10,4 +10,4 @@ It covers more advanced features, such as [shortcode parameters](advanced/shortc
 
 There's a [FAQ](faq) that answers many of the most common questions. And a [support forum](http://wordpress.org/support/plugin/food-and-drink-menu) for the free plugin.
 
-If you need help with the [Pro addon](pro), please use the [contact form](http://themeofthecrop.com/about/support) on my website.
+If you need help with the [Pro addon](pro), please use the [contact form](https://themeofthecrop.com/about/support) on my website.

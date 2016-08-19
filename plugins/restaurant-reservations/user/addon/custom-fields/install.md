@@ -4,7 +4,7 @@ slug: restaurant-reservations
 menu: user
 title: Install and Activate
 plugin_title: Custom Fields
-plugin_url: http://themeofthecrop.com/plugin/custom-fields-restaurant-reservations/
+plugin_url: https://themeofthecrop.com/plugin/custom-fields-restaurant-reservations/
 plugin_zip: custom-fields-for-rtb.zip
 plugin_parent: Restaurant Reservations
 plugin_parent_url: https://wordpress.org/plugins/restaurant-reservations/

@@ -4,7 +4,7 @@ slug: restaurant-reservations
 menu: user
 title: Install and Activate
 plugin_title: MailChimp
-plugin_url: http://themeofthecrop.com/plugin/mailchimp-restaurant-reservations/
+plugin_url: https://themeofthecrop.com/plugin/mailchimp-restaurant-reservations/
 plugin_zip: mailchimp-for-rtb.zip
 plugin_parent: Restaurant Reservations
 plugin_parent_url: https://wordpress.org/plugins/restaurant-reservations/

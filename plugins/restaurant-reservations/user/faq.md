@@ -4,7 +4,7 @@ slug: restaurant-reservations
 menu: user
 title: Frequently Asked Questions
 ---
-Quick answers to your most common questions. Anything missing? [Let me know](http://themeofthecrop.com/about/support).
+Quick answers to your most common questions. Anything missing? [Let me know](https://themeofthecrop.com/about/support).
 
 ## <a name="shortcode"></a>Is there a shortcode to print the booking form?
 
@@ -32,11 +32,11 @@ This is almost always the result of issues with your server and can be caused by
 4. If you're able to receive regular WordPress emails but not booking notifications, check your spam filters or junk mail folders.
 5. If you still haven't found the emails, contact your web host and let them know the date, time and email address where you expected to receive a booking. They should be able to check their logs to see what is happening to the email.
 
-If your web host is not able or willing to resolve the problem, or you'd like to explore more reliable email delivery, read [how I use Postmark to make sure emails are delivered every time](http://themeofthecrop.com/2016/05/24/make-sure-restaurant-emails-delivered-every-time/).
+If your web host is not able or willing to resolve the problem, or you'd like to explore more reliable email delivery, read [how I use Postmark to make sure emails are delivered every time](https://themeofthecrop.com/2016/05/24/make-sure-restaurant-emails-delivered-every-time/).
 
 ## <a name="required-phone-number"></a>Can I make the phone number required?
 
-This is a common request so I have written a small addon to do this for you. [Learn more](http://themeofthecrop.com/2015/01/08/simple-phone-validation-restaurant-reservations/).
+This is a common request so I have written a small addon to do this for you. [Learn more](https://themeofthecrop.com/2015/01/08/simple-phone-validation-restaurant-reservations/).
 
 ## <a name="translate"></a>Can I translate the booking form?
 Yes, everything in this plugin can be translated using the standard translation process and software like PoEdit.
@@ -49,7 +49,7 @@ If you're not familiar with that process, I'd recommend you take a look at the [
 Users with the Administrator and Booking Manager roles are exempt from these restrictions. This is so that they can make last-minute changes to bookings as needed. If you want to test the Early or Late Bookings restrictions, try submitting a reservation while logged out from the site.
 
 ## <a name="custom-fields"></a>I want to add a field to the form. Can I do that?
-The [Custom Fields addon](http://themeofthecrop.com/plugin/custom-fields-restaurant-reservations)  will allow you to add a field or modify some of the existing fields of the booking form.
+The [Custom Fields addon](https://themeofthecrop.com/plugin/custom-fields-restaurant-reservations)  will allow you to add a field or modify some of the existing fields of the booking form.
 
 Developers who are comfortable coding up plugins for WordPress can add their own fields using the hooks provided. See the [developer documentation](../developer).
 
@@ -67,7 +67,7 @@ I usually recommend that people just make their notificaton emails multi-languag
 
 I provide the best support for the free plugin that I'm able to provide for free. But there is only so much I'm able to do while keeping my business sustainable. Still, I'd encourage you to [post your support request on the official forums](http://wordpress.org/support/plugin/restaurant-reservations) and I'll help out as best I can.
 
-If you have purchased any of the commercial addons, please reach out to me via the [support form on my website](http://themeofthecrop.com/about/support).
+If you have purchased any of the commercial addons, please reach out to me via the [support form on my website](https://themeofthecrop.com/about/support).
 
 {% include faq/refund.md %}
 

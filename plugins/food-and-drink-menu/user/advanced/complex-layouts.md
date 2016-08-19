@@ -8,8 +8,8 @@ You may need a menu layout that is more complex than a one- or two-column layout
 
 The following tutorials will give you creative solutions to your restaurant needs.
 
-[Create a complex menu layout](http://themeofthecrop.com/2014/07/31/achieve-complex-menu-layouts-food-drink-menu/) by nesting menus in a grid using a simple grid columns shortcode plugin.
+[Create a complex menu layout](https://themeofthecrop.com/2014/07/31/achieve-complex-menu-layouts-food-drink-menu/) by nesting menus in a grid using a simple grid columns shortcode plugin.
 
-[Give each section of your menu a unique style](http://themeofthecrop.com/2014/08/19/give-section-restaurant-menu-unique-style/) by targeting it with specific CSS rules.
+[Give each section of your menu a unique style](https://themeofthecrop.com/2014/08/19/give-section-restaurant-menu-unique-style/) by targeting it with specific CSS rules.
 
-And if you are comfortable modifying code templates, you can also [customize the menu templates](http://themeofthecrop.com/2014/01/28/customize-restaurant-menu-templates/).
+And if you are comfortable modifying code templates, you can also [customize the menu templates](https://themeofthecrop.com/2014/01/28/customize-restaurant-menu-templates/).

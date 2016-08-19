@@ -4,4 +4,4 @@ A simple, no-fuss lightbox for your photo galleries. Avoid the big, bloated phot
 
 All you need to do to get your images to show in a lightbox is is install and activate [this plugin](https://wordpress.org/plugins/wp-featherlight/), then set the **Link To** option to Media File when creating galleries.
 
-It's dead simple once you know how. Here's a [quick tutorial](http://themeofthecrop.com/2015/12/08/creating-photo-galleries-the-wordpress-way/).
+It's dead simple once you know how. Here's a [quick tutorial](https://themeofthecrop.com/2015/12/08/creating-photo-galleries-the-wordpress-way/).

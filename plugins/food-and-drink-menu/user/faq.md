@@ -4,7 +4,7 @@ slug: food-and-drink-menu
 menu: user
 title: Frequently Asked Questions (FAQ)
 ---
-Quick answers to your most common questions. Anything missing? [Let me know](http://themeofthecrop.com/about/support).
+Quick answers to your most common questions. Anything missing? [Let me know](https://themeofthecrop.com/about/support).
 
 ## <a name="menu-item-order"></a> How do I change the order of items on my menu?
 
@@ -75,7 +75,7 @@ Although Food and Drink Menu is compatible with WPML, I'm not personally very fa
 
 I provide the best support for the free plugin that I'm able to provide for free. But there is only so much I'm able to do while keeping my business sustainable. Still, I'd encourage you to [post your support request on the official forums](http://wordpress.org/support/plugin/food-and-drink-menu) and I'll help out as best I can.
 
-If you have purchased the [Pro addon](pro), please reach out to me via the [support form on my website](http://themeofthecrop.com/about/support).
+If you have purchased the [Pro addon](pro), please reach out to me via the [support form on my website](https://themeofthecrop.com/about/support).
 
 {% include faq/refund.md %}
 
