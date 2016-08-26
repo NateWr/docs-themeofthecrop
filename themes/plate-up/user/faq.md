@@ -6,6 +6,16 @@ title: Frequently Asked Questions
 ---
 Quick answers to your most pressing questions. Anything missing? [Let me know](https://themeofthecrop.com/about/support/).
 
+{% include theme/user/faq/colors.md %}
+
+## <a name="logo"></a> How do I add my logo?
+
+You can upload your logo to display on your website by going to the customizer under **Appearance > Customize**. Open the **Logo** section indicated below to upload your logo.
+
+![Screenshot indicating the Logo section in the customizer](/img/theme/{{ page.slug }}/customizer-logo.png)
+
+For best performance, you shouldn't upload a logo that's too large. A logo that is 500px wide is plenty large to be displayed crisply even on retina screens.
+
 ## <a name="homepage"></a> How do I build a homepage like the demo?
 
 The **Theme Customizer** will give you special display options to build an effective homepage. You can find the customizer by going to **Appearance > Customize**.
@@ -42,7 +52,7 @@ From there, open the **Homepage Sidebar** section. You can then add any widget y
 
 If you're taking online reservations, I recommend adding the **Booking Form** widget. If not, you might want to add the **Contact Card** widget with your opening hours.
 
-## <a name="footer-address"></a> How do I add my contact details?
+## <a name="footer-address"></a> How do I add contact details to my site?
 
 Once you have filled out your [Business Profile](plugins#business-profile), you can display these details in any widget area using the **Contact Card** widget.
 
@@ -66,7 +76,11 @@ I recommend using the footer widget areas. Visitors to your website will commonl
 
 {% include theme/user/faq/social-profile-menu.md %}
 
-{% include theme/user/faq/photo-gallery.md %}
+## <a name="photo-gallery"></a> How can I create a photo gallery that opens in a lightbox like the demo?
+
+WordPress supports great photo galleries right out of the box and this theme displays them beautifully. I like them so much that I wrote a [step-by-step guide on how to add photo galleries](https://themeofthecrop.com/2015/12/08/creating-photo-galleries-the-wordpress-way/) to your pages and posts.
+
+When you're following the guide to create a gallery, make sure that you set the **Link to** option to "Media File". This theme will automatically display such photos in a lightbox when they're clicked.
 
 {% include theme/user/faq/full-width-page-template.md %}
 

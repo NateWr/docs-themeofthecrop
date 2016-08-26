@@ -32,11 +32,11 @@ user:
     - title: How do I add my logo?
       page: user/faq#logo
 
-    - title: How do I add my address to the bottom of my site?
-      page: user/faq#footer-address
-
     - title: How do I build a homepage like the demo?
       page: user/faq#homepage
+
+    - title: How do I add contact details to my site?
+      page: user/faq#footer-address
 
     - title: How do I build my restaurant's menu?
       page: user/faq#menu
@@ -44,7 +44,7 @@ user:
     - title: How do I take reservations for my restaurant?
       page: user/faq#reservations
 
-    - title: How do I display my restaurant's contact details?
+    - title: How do I display my restaurant's contact details on any page?
       page: user/faq#business-profile
 
     - title: How do I add reviews of my restaurant?
@@ -104,6 +104,3 @@ user:
 
     - title: Event Organiser
       page: user/plugins#event-organiser
-
-    - title: WP Featherlight
-      page: user/plugins#wp-featherlight
