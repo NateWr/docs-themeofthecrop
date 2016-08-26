@@ -8,6 +8,12 @@ Quick answers to your most pressing questions. Anything missing? [Let me know](h
 
 {% include theme/user/faq/colors.md %}
 
+## <a name="logo"></a> How do I add my logo?
+
+You can upload your logo to display on your website by going to the customizer under **Appearance > Customize**. Open the **Logo, Site Title and Tagline** section and click the button to upload your image file.
+
+Once uploaded, you can use the **Scale** slider to increase or decrease the size.
+
 ## <a name="footer-address"></a> How do I add my address to the bottom of my site?
 
 Once you have filled out your **Business Profile**, your contact details will automatically appear at the bottom of your site, just like the demo.
