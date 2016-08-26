@@ -6,11 +6,7 @@ title: Frequently Asked Questions
 ---
 Quick answers to your most pressing questions. Anything missing? [Let me know](https://themeofthecrop.com/about/support/).
 
-## <a name="colors"></a> How do I change the colors of my site?
-
-To change the colors of your site, go to the **Appearance > Customize** page in your WordPress admin area. Open the **Theme Colors** section and use the color controls to change sections of your site.
-
-Once you've finished, don't forget to click the **Save** button.
+{% include theme/user/faq/colors.md %}
 
 ## <a name="footer-address"></a> How do I add my address to the bottom of my site?
 
