@@ -6,11 +6,13 @@ title: Frequently Asked Questions
 ---
 Quick answers to your most pressing questions. Anything missing? [Let me know](https://themeofthecrop.com/about/support/).
 
-## <a name="colors"></a> How do I change the colors of my site?
+{% include theme/user/faq/colors.md %}
 
-To change the colors of your site, go to the **Appearance > Customize** page in your WordPress admin area. Open the **Theme Colors** section and use the color controls to change sections of your site.
+## <a name="logo"></a> How do I add my logo?
 
-Once you've finished, don't forget to click the **Save** button.
+You can upload your logo to display on your website by going to the customizer under **Appearance > Customize**. Open the **Logo, Site Title and Tagline** section and click the button to upload your image file.
+
+Once uploaded, you can use the **Scale** slider to increase or decrease the size.
 
 ## <a name="footer-address"></a> How do I add my address to the bottom of my site?
 
