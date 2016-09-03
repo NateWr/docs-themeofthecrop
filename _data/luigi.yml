@@ -107,3 +107,6 @@ user:
 
     - title: WP Featherlight
       page: user/plugins#wp-featherlight
+
+  - title: Changelog
+    page: changelog

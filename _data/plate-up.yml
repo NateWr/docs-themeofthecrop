@@ -104,3 +104,6 @@ user:
 
     - title: Event Organiser
       page: user/plugins#event-organiser
+
+  - title: Changelog
+    page: changelog
