@@ -4,6 +4,9 @@ slug: thespot
 menu: user
 title: Changelog
 ---
+## 1.2.1 - 2016-09-08
+* Update styles for Ninja Forms 3.0
+
 ## 1.2 - 2016-08-30
 * Add: support for the Event Organiser plugin
 * Add: support for the Ninja Forms plugin

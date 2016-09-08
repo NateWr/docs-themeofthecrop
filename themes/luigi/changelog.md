@@ -4,6 +4,9 @@ slug: luigi
 menu: user
 title: Changelog
 ---
+## 1.1.2 (2016-09-08)
+* Update styles for Ninja Forms 3.0
+
 ## 1.1 (2016-06-15)
 * Add integrated support for multiple locations with Business Profile
 
