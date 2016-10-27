@@ -71,6 +71,18 @@ This plugin includes a `wpml-config.xml` file which provides compatibility with 
 
 Although Food and Drink Menu is compatible with WPML, I'm not personally very familiar with the multi-language plugin and so may not be able to provide very helpful support if you run into any problems or find the editing process confusing.
 
+## <a name="image-sizes"></a> I changed the size of my Menu Item photos, but the image is still the old size.
+
+After changing the size of photos under **Menus > Settings**, you may need to regenerate your thumbnails. WordPress generates photo sizes when you first upload the image, so any images you've already uploaded will have the old image size.
+
+I recommend you use the plugin <a href="https://wordpress.org/plugins/regenerate-thumbnails/">Regenerate Thumbnails</a>. It will provide you with a handy tool in your WordPress admin area to regenerate thumbnails for all of your images.
+
+If you've regenerated thumbnails but still don't see any changes, this may be due to confusion between two different kinds of image "sizes". When WordPress delivers the menu to your web browser, it loads an image of a particular size. But depending on the width of your screen and the width of the menu on your screen, the actual display width will vary.
+
+Regenerating thumbnails and changing the image size in the settings will change the size of the image file that's loaded into your browser. But it won't change the width of the image as it displays on your screen.
+
+By default, the plugin sets the display size to 25% of the menu item width, and the actual size of its appearance depends on the width of the overall menu. If you want to change the display width of the image in your menu, you'll need to use some CSS code.
+
 ## <a name="support"></a> How do I contact support?
 
 I provide the best support for the free plugin that I'm able to provide for free. But there is only so much I'm able to do while keeping my business sustainable. Still, I'd encourage you to [post your support request on the official forums](http://wordpress.org/support/plugin/food-and-drink-menu) and I'll help out as best I can.

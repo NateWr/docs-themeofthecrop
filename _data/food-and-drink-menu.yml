@@ -81,6 +81,9 @@ user:
     - title: Is this compatible with WPML?
       page: user/faq#wpml
 
+    - title: I changed the size of my Menu Item photos, but the image is still the old size.
+      page: user/faq#image-sizes
+
     - title: How do I contact support?
       page: user/faq#support
 
