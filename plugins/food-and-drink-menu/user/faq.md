@@ -16,13 +16,9 @@ If you want one Menu Item to be listed after another, make sure it's **Order** v
 
 ## <a name="multiple-prices"></a> How do I show multiple prices?
 
-Multiple prices per-product are not yet supported by this plugin. The [Pro addon](pro) supports a discounted price, but not multiple regular prices.
+Version 1.5 of the plugin adds support for setting multiple prices. If you don't see an option to add a price for a Menu Item, please make sure you've upgraded to the latest version.
 
-I do plan to add support for multiple prices in the future, but this feature will not be available in the near future.
-
-In the meantime, I often recommend that people simply add the pricing information into the **Menu Item** description.
-
-![Screenshot of multiple prices](/img/{{ page.slug }}/multiple-prices.png)
+Additionally, the [Pro addon](https://themeofthecrop.com/plugins/food-and-drink-menu/) supports a discounted price.
 
 ## <a name="columns-collapsed"></a> I have a two-column menu but it displays in one column.
 
