@@ -22,6 +22,10 @@ Once you've set up the icons and assigned them to a menu item, they'll display i
 
 If there's no icon matching an Item Flag you'd like to use, it will fall back to a text display instead.
 
+## Icon Font and Source Files
+
+The Pro addon displays the icons as an icon font so that their color can be changed with CSS. Each icon is also provided as a vector file (SVG) so that graphic designers can make their own icons based on this set.
+
 ---
 
 *Menu Icons and Menu Item Flags are only available in the [Pro addon](../pro).*

@@ -38,8 +38,6 @@ You'll recognize the title and description areas, which work just like your Menu
 
 If you followed the steps above to [assign a menu item to a section](#assign-item-to-section), you'll see your Menu Sections listed here. Now you can build a one- or two-column menu by adding the Menu Sections into your Menu.
 
-Click a Menu Section in gray on the left to add it to the left-hand column. Click a Menu Section on the right to add it to the right-hand column.
-
-*If you only want a single column, don't add any sections to the right column. The plugin will automatically discard the right column if no sections are assigned to it.*
+Drag Menu Sections from the **Available Sections** column into any of the other columns to add them to your Menu. If you only want a single column, don't add any sections to the Second Column. The plugin will automatically discard the Second Column if no sections are assigned to it.
 
 Once you click the **Publish** button at the top, your menu will be published. Now you're ready to [display your menu](display-menu).

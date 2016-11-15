@@ -40,9 +40,27 @@ On the Edit screen, you'll see an area to type in a description. This is a great
 - Add cheese to any burger for $1. Add bacon for $2.
 - Add fries and a coke to any order during lunchtime for just $10.
 
+## <a name="duplicate-section-names"></a> Can I have different sections with the same name?
+
+Yes. It's common for a restaurant to have two locations. Each location's menu has a Starters section, but they might not have exactly the same Starters in each location. They need different sections with the same name.
+
+You'll soon learn that you can't create two Menu Sections with the same name. To get around this, you'll need to create your Menu Sections with unique names, like "Starters (Downtown)" and "Starters (Uptown)".
+
+You can then override these names when you adding the Menu Section to a Menu. To do this, click the Edit icon in the Menu Layout panel for the Menu Section.
+
+![Screenshot of the Menu Section editing link](/img/{{ page.slug }}/menu-section-name-edit.png)
+
+You can then enter your preferred Menu Section name.
+
+![Screenshot of the Menu Section editing panel](/img/{{ page.slug }}/menu-section-name-panel.png)
+
+This name only applies to this Menu, so different Menus can each have sections with the same name.
+
 ## <a name="customize"></a> Can I customize the look and layout of my menu?
 
 The plugin comes with a base style, which inherits the look of your theme, as well as a classic style. You can [learn more about these settings](advanced/settings).
+
+Since version 1.5 of this plugin,  you can also make use of your theme's [page templates](advanced/page-templates).
 
 If you want to make more bespoke customizations to the design and style of your menu, you may need to know CSS code and how to modify PHP templates. You can [read some simple tutorials](advanced/complex-layouts) or take a look at the [developer documentation](../developer).
 

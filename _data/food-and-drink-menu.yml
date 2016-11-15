@@ -25,6 +25,12 @@ user:
     page: user/advanced
     flags: advanced
     items:
+    - title: Quick Price Editing
+      page: user/advanced/quick-price-edit
+
+    - title: Page Templates
+      page: user/advanced/page-templates
+
     - title: Shortcodes
       page: user/advanced/shortcodes
 
@@ -68,6 +74,9 @@ user:
 
     - title: How can I show that a collection of dishes come with a side?
       page: user/faq#section-description
+
+    - title: Can I have two different sections in different menus with the same name?
+      page: user/faq#duplicate-section-names
 
     - title: Can I customize the look and layout of my menu?
       page: user/faq#customize
