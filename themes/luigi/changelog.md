@@ -4,6 +4,13 @@ slug: luigi
 menu: user
 title: Changelog
 ---
+## 1.1.4 (2016-11-15)
+* Add: support new item flag icons in Food and Drink Menu Pro
+* Fix: location-specific phone and contact details in contact cards
+
+## 1.1.3 (2016-09-09)
+* Fix critical bugs when recommended plugins not active
+
 ## 1.1.2 (2016-09-08)
 * Update styles for Ninja Forms 3.0
 

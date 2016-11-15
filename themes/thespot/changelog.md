@@ -4,6 +4,9 @@ slug: thespot
 menu: user
 title: Changelog
 ---
+## 1.2.2 - 2016-11-15
+* Fix: fatal error on PHP 5.2.x
+
 ## 1.2.1 - 2016-09-08
 * Update styles for Ninja Forms 3.0
 
