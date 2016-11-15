@@ -16,13 +16,9 @@ If you want one Menu Item to be listed after another, make sure it's **Order** v
 
 ## <a name="multiple-prices"></a> How do I show multiple prices?
 
-Multiple prices per-product are not yet supported by this plugin. The [Pro addon](pro) supports a discounted price, but not multiple regular prices.
+Version 1.5 of the plugin adds support for setting multiple prices. If you don't see an option to add a price for a Menu Item, please make sure you've upgraded to the latest version.
 
-I do plan to add support for multiple prices in the future, but this feature will not be available in the near future.
-
-In the meantime, I often recommend that people simply add the pricing information into the **Menu Item** description.
-
-![Screenshot of multiple prices](/img/{{ page.slug }}/multiple-prices.png)
+Additionally, the [Pro addon](https://themeofthecrop.com/plugins/food-and-drink-menu/) supports a discounted price.
 
 ## <a name="columns-collapsed"></a> I have a two-column menu but it displays in one column.
 
@@ -44,9 +40,27 @@ On the Edit screen, you'll see an area to type in a description. This is a great
 - Add cheese to any burger for $1. Add bacon for $2.
 - Add fries and a coke to any order during lunchtime for just $10.
 
+## <a name="duplicate-section-names"></a> Can I have different sections with the same name?
+
+Yes. It's common for a restaurant to have two locations. Each location's menu has a Starters section, but they might not have exactly the same Starters in each location. They need different sections with the same name.
+
+You'll soon learn that you can't create two Menu Sections with the same name. To get around this, you'll need to create your Menu Sections with unique names, like "Starters (Downtown)" and "Starters (Uptown)".
+
+You can then override these names when you adding the Menu Section to a Menu. To do this, click the Edit icon in the Menu Layout panel for the Menu Section.
+
+![Screenshot of the Menu Section editing link](/img/{{ page.slug }}/menu-section-name-edit.png)
+
+You can then enter your preferred Menu Section name.
+
+![Screenshot of the Menu Section editing panel](/img/{{ page.slug }}/menu-section-name-panel.png)
+
+This name only applies to this Menu, so different Menus can each have sections with the same name.
+
 ## <a name="customize"></a> Can I customize the look and layout of my menu?
 
 The plugin comes with a base style, which inherits the look of your theme, as well as a classic style. You can [learn more about these settings](advanced/settings).
+
+Since version 1.5 of this plugin,  you can also make use of your theme's [page templates](advanced/page-templates).
 
 If you want to make more bespoke customizations to the design and style of your menu, you may need to know CSS code and how to modify PHP templates. You can [read some simple tutorials](advanced/complex-layouts) or take a look at the [developer documentation](../developer).
 
@@ -70,6 +84,18 @@ The [Pro addon](pro) features a wide range of icons covering dietary needs, heal
 This plugin includes a `wpml-config.xml` file which provides compatibility with the WPML multi-language plugin.
 
 Although Food and Drink Menu is compatible with WPML, I'm not personally very familiar with the multi-language plugin and so may not be able to provide very helpful support if you run into any problems or find the editing process confusing.
+
+## <a name="image-sizes"></a> I changed the size of my Menu Item photos, but the image is still the old size.
+
+After changing the size of photos under **Menus > Settings**, you may need to regenerate your thumbnails. WordPress generates photo sizes when you first upload the image, so any images you've already uploaded will have the old image size.
+
+I recommend you use the plugin <a href="https://wordpress.org/plugins/regenerate-thumbnails/">Regenerate Thumbnails</a>. It will provide you with a handy tool in your WordPress admin area to regenerate thumbnails for all of your images.
+
+If you've regenerated thumbnails but still don't see any changes, this may be due to confusion between two different kinds of image "sizes". When WordPress delivers the menu to your web browser, it loads an image of a particular size. But depending on the width of your screen and the width of the menu on your screen, the actual display width will vary.
+
+Regenerating thumbnails and changing the image size in the settings will change the size of the image file that's loaded into your browser. But it won't change the width of the image as it displays on your screen.
+
+By default, the plugin sets the display size to 25% of the menu item width, and the actual size of its appearance depends on the width of the overall menu. If you want to change the display width of the image in your menu, you'll need to use some CSS code.
 
 ## <a name="support"></a> How do I contact support?
 
