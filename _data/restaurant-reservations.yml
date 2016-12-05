@@ -34,6 +34,9 @@ user:
     - title: Setting up a Booking Manager
       page: user/manage/booking-manager
 
+    - title: Banning Abusive Customers
+      page: user/manage/ban-customers
+
     - title: Multi-location Bookings
       page: user/manage/locations
 
