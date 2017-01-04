@@ -63,6 +63,19 @@ user:
     - title: Custom Fields FAQ
       page: user/addon/custom-fields/faq
 
+  - title: Email Templates (addon)
+    page: user/addon/email-templates
+    flags: email-templates
+    items:
+    - title: Install and Activate
+      page: user/addon/email-templates/install
+
+    - title: Using the Email Designer
+      page: user/addon/email-templates/designer
+
+    - title: Email Templates FAQ
+      page: user/addon/email-templates/faq
+
   - title: MailChimp (addon)
     page: user/addon/mailchimp
     flags: mailchimp
