@@ -23,7 +23,7 @@ You can click the tabs above the list to view only bookings for that location. O
 
 ## Configuring bookings for each location
 
-When using [Business Profile](http://wordpress.org/plugins/business-profile/) alongside [Restaurant Reservations](https://wordpress.org/plugins/restaurant-reservations/), you'll find an additional set of configuration fields for each Location.
+When using [Business Profile](http://wordpress.org/plugins/business-profile/) alongside [Restaurant Reservations](https://themeofthecrop.com/plugins/restaurant-reservations/), you'll find an additional set of configuration fields for each Location.
 
 If you go to the **Locations** page in your WordPress admin area and then click on a location, you'll find the following metabox.
 

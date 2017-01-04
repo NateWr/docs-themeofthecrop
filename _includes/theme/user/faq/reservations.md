@@ -6,6 +6,6 @@ Once the plugin is [installed and activated](/{{ site.data[page.slug].base}}/use
 
 You can also add the form to any page or post with the `[booking-form]` shortcode, or use the **Booking Form** widget to add it to a sidebar.
 
-There's *so much more* you can do, from setting your booking schedule to configuring notifications. There are also *powerful addons* to [add custom fields](https://themeofthecrop.com/plugin/custom-fields-restaurant-reservations/), [build your mailing list](https://themeofthecrop.com/plugin/mailchimp-restaurant-reservations/) and [export bookings](https://themeofthecrop.com/plugin/export-bookings-for-restaurant-reservations/) to PDF/Excel files.
+There's *so much more* you can do, from setting your booking schedule to configuring notifications. There are also *powerful addons* to [add custom fields](https://themeofthecrop.com/plugins/restaurant-reservations/custom-fields/), [build your mailing list](https://themeofthecrop.com/plugins/restaurant-reservations/mailchimp/) and [export bookings](https://themeofthecrop.com/plugins/restaurant-reservations/export-bookings/) to PDF/Excel files.
 
 Be sure to read the [plugin's documentation](/plugins/restaurant-reservations).

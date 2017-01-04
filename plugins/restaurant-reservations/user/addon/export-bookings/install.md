@@ -4,10 +4,10 @@ slug: restaurant-reservations
 menu: user
 title: Install and Activate
 plugin_title: Export Bookings
-plugin_url: https://themeofthecrop.com/plugin/export-bookings-for-restaurant-reservations/
+plugin_url: https://themeofthecrop.com/plugins/restaurant-reservations/export-bookings/
 plugin_zip: export-bookings-for-rtb.zip
 plugin_parent: Restaurant Reservations
-plugin_parent_url: https://wordpress.org/plugins/restaurant-reservations/
+plugin_parent_url: https://themeofthecrop.com/plugins/restaurant-reservations/
 ---
 {% include plugins/install_addon.md %}
 
