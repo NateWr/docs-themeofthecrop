@@ -3,9 +3,9 @@ layout: default
 slug: restaurant-reservations
 menu: user
 title: Install and Activate
-plugin_title: Export Bookings
-plugin_url: https://themeofthecrop.com/plugins/restaurant-reservations/export-bookings/
-plugin_zip: export-bookings-for-rtb.zip
+plugin_title: Email Templates
+plugin_url: https://themeofthecrop.com/plugins/restaurant-reservations/email-templates/
+plugin_zip: email-templates-for-rtb.zip
 plugin_parent: Restaurant Reservations
 plugin_parent_url: https://themeofthecrop.com/plugins/restaurant-reservations/
 ---
@@ -19,4 +19,4 @@ Go to the **Bookings > Settings > Licenses** page in your WordPress admin area. 
 
 ---
 
-Now that you've got it setup, go ahead and [generate an export](export).
+When you're ready, learn more about [using the email designer](designer) or check out the [FAQ](faq).
