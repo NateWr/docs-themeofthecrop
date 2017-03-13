@@ -1,6 +1,6 @@
 You can generate demo content for the most common plugins to help you quickly orient yourself to your new restaurant website.
 
-![Screenshot of the Theme Setup page](/img/theme/{{ page.slug }}/install-demo-content.png)
+![Screenshot of the Theme Setup page](/img/theme/install-demo-content.png)
 
 To do this:
 

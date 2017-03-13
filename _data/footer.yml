@@ -12,6 +12,9 @@ plugins:
     page: good-reviews-wp
 
 themes:
+  - title: Augustan
+    page: augustan
+
   - title: Luigi
     page: luigi
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-slug: luigi
+slug: augustan
 menu: user
 title: Frequently Asked Questions
 ---
@@ -12,7 +12,7 @@ Quick answers to your most pressing questions. Anything missing? [Let me know](h
 
 You can upload your logo to display on your website by going to the customizer under **Appearance > Customize**. Open the **Logo, Site Title and Tagline** section and click the button to upload your image file.
 
-Once uploaded, you can use the **Scale** slider to increase or decrease the size.
+This logo will appear in the header and footer of your site.
 
 ## <a name="footer-address"></a> How do I add my address to the bottom of my site?
 
@@ -22,7 +22,7 @@ You can learn more about how to fill out your business profile in the section on
 
 ## <a name="homepage"></a> How do I build a homepage like the demo?
 
-Luigi comes with a powerful tool to construct a gorgeous, effective landing page. Before you can use it, though, you'll need to have configured a Static Home Page. If you haven't done so, read the [recommended first steps](/{{ site.data[page.slug].base}}/user/getting-started/first-steps).
+Augustan makes use of a simple tool to construct a gorgeous, effective landing page. Before you can use it, though, you'll need to have [activated the recommended plugins](/{{ site.data[page.slug].base}}/user/getting-started/activate-plugins) and configured a Static Home Page. If you haven't done so, read the [recommended first steps](/{{ site.data[page.slug].base}}/user/getting-started/first-steps).
 
 Once you've got your homepage set up, open the customizer from the **Appearance > Customize** link (you may already have the customizer open). When you're looking at the homepage in the customizer, you'll see a **Homepage Layout** section. Open that to begin working with the layout builder.
 
