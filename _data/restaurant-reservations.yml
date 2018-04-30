@@ -130,8 +130,14 @@ user:
     - title: I want to add a field to the form. Can I do that?
       page: user/faq#custom-fields
 
+    - title: Is this plugin ready for GDPR?
+      page: user/faq#gdpr
+
     - title: Is this compatible with WPML?
       page: user/faq#wpml
+
+    - title: The date or time of a booking is incorrect in emails, and I'm using qTranslate.
+      page: user/faq/#qtranslate
 
     - title: How do I contact support?
       page: user/faq#support

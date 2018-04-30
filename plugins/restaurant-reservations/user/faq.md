@@ -82,7 +82,7 @@ For that reason, the subsequent notification emails are sent out in the administ
 
 I usually recommend that people just make their notificaton emails multi-language, by including text for both languages into every email.
 
-## <a name="wpml"></a>The date or time of a booking is incorrect in emails, and I'm using qTranslate.
+## <a name="qtranslate"></a>The date or time of a booking is incorrect in emails, and I'm using qTranslate.
 
 If you are using qTranslate, you may experience problems with the date and time that appears in booking notification emails. You can fix this by changing a setting in qTranslate.
 
