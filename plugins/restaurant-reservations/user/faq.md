@@ -30,7 +30,16 @@ This is almost always the result of issues with your server and can be caused by
 2. Make sure that WordPress is able to send emails. The admin email address in the WordPress settings page should receive notifications of new users.
 3. If you're not able to receive regular WordPress emails, contact your web host and ask them for help sorting it out.
 4. If you're able to receive regular WordPress emails but not booking notifications, check your spam filters or junk mail folders.
-5. If you still haven't found the emails, contact your web host and let them know the date, time and email address where you expected to receive a booking. They should be able to check their logs to see what is happening to the email.
+
+If you still haven't found the emails, you may be getting blocked by spam filters on your email server or on the recipient's email server. There are many things that can cause this. The most common are:
+
+1. Your email server has a bad reputation.
+2. The content of your emails is causing some recipient servers to flag them as spam.
+3. Conflicts with your email server configuration are causing your emails to look suspicious.
+
+You’ll need to explore this issue further with your web host. If you contact them with the date and time of an email that should have been received but wasn’t, they should be able to look at their email logs to see if an email was sent. If it was, but it was blocked by the recipient server, they’ll often receive a return notice with more details about why it was blocked.
+
+If you or your web host would like more technical details about how the plugin configures the email headers, you can find some details in [this support request](https://wordpress.org/support/topic/e-mails-not-being-send/#post-7562496).
 
 If your web host is not able or willing to resolve the problem, or you'd like to explore more reliable email delivery, read [how I use Postmark to make sure emails are delivered every time](https://themeofthecrop.com/2016/05/24/make-sure-restaurant-emails-delivered-every-time/).
 
