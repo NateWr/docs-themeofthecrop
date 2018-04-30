@@ -36,7 +36,7 @@ If your web host is not able or willing to resolve the problem, or you'd like to
 
 ## <a name="required-phone-number"></a>Can I make the phone number required?
 
-This is a common request so I have written a small addon to do this for you. [Learn more](https://themeofthecrop.com/2015/01/08/simple-phone-validation-restaurant-reservations/).
+Yes, you can make the phone number required by changing the **Require Phone** setting under **Bookings > Settings**.
 
 ## <a name="translate"></a>Can I translate the booking form?
 Yes, everything in this plugin can be translated using the standard translation process and software like PoEdit.
@@ -52,6 +52,16 @@ Users with the Administrator and Booking Manager roles are exempt from these res
 The [Custom Fields addon](https://themeofthecrop.com/plugin/custom-fields-restaurant-reservations)  will allow you to add a field or modify some of the existing fields of the booking form.
 
 Developers who are comfortable coding up plugins for WordPress can add their own fields using the hooks provided. See the [developer documentation](../developer).
+
+## <a name="gdpr"></a>Is this plugin ready for GDPR?
+
+Version 1.7.7 added a couple of features to help your website comply with GDPR, the European privacy laws that will come into effect in 2018.
+
+First, you can add a confirmation field to the booking form that requires customers to consent to the collection of their data. You can configure this confirmation field under the **Bookings > Settings > General > Privacy** section in your WordPress admin area.
+
+Second, you can delete all bookings related to a single email address. To do this, find the **Submitted By** column in the Bookings list. Click the **Delete Customer** link there to delete booking information related to that email address. You will _not_ be able to undo this.
+
+GDPR gives customers the right to request you delete all information about them. Using this feature will remove all booking data related to that email address from your WordPress database. If you are using the [MailChimp addon](https://themeofthecrop.com/plugins/restaurant-reservations/mailchimp/), you will also need to remove their email address from any mailing list you have there.
 
 ## <a name="wpml"></a>Is this compatible with WPML?
 
