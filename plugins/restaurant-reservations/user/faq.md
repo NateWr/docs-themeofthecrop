@@ -82,6 +82,12 @@ For that reason, the subsequent notification emails are sent out in the administ
 
 I usually recommend that people just make their notificaton emails multi-language, by including text for both languages into every email.
 
+## <a name="wpml"></a>The date or time of a booking is incorrect in emails, and I'm using qTranslate.
+
+If you are using qTranslate, you may experience problems with the date and time that appears in booking notification emails. You can fix this by changing a setting in qTranslate.
+
+In the qTranslate settings, go to **Advanced Settings > Conversion Date/Time** and make sure that **Use strftime** is selected.
+
 ## <a name="support"></a> How do I contact support?
 
 I provide the best support for the free plugin that I'm able to provide for free. But there is only so much I'm able to do while keeping my business sustainable. Still, I'd encourage you to [post your support request on the official forums](http://wordpress.org/support/plugin/restaurant-reservations) and I'll help out as best I can.
