@@ -43,6 +43,12 @@ If you or your web host would like more technical details about how the plugin c
 
 If your web host is not able or willing to resolve the problem, or you'd like to explore more reliable email delivery, read [how I use Postmark to make sure emails are delivered every time](https://themeofthecrop.com/2016/05/24/make-sure-restaurant-emails-delivered-every-time/).
 
+### <a name="no-emails-from-header"></a>Changing the FROM header
+
+If your web host advises you that the FROM header of the emails is causing a problem, you can change this at **Bookings > Settings > Notifications > Advanced**. The FROM header must match an email address that your email server has permission to send email as.
+
+When configured incorrectly, **all of your emails may stop being sent**. If you're not sure, ask your web host which email address you should use.
+
 ## <a name="required-phone-number"></a>Can I make the phone number required?
 
 Yes, you can make the phone number required by changing the **Require Phone** setting under **Bookings > Settings**.
