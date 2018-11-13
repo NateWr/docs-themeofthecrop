@@ -4,6 +4,13 @@ slug: luigi
 menu: user
 title: Changelog
 ---
+
+## 1.1.6 (2018-05-30)
+* Add: style privacy consent field in Restaurant Reservations v1.7.7.
+
+## 1.1.5 (2017-04-21)
+* Add: support image property in Business Profile v1.1.4.
+
 ## 1.1.4 (2016-11-15)
 * Add: support new item flag icons in Food and Drink Menu Pro
 * Fix: location-specific phone and contact details in contact cards

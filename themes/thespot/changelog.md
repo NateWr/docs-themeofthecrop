@@ -4,6 +4,12 @@ slug: thespot
 menu: user
 title: Changelog
 ---
+## 1.2.4 (2018-05-30)
+* Add: style the privacy consent field added in Restaurant Reservations v1.7.7
+
+## 1.2.3 (2016-05-25)
+* Fix: incorrect date for blog posts in blog index
+
 ## 1.2.2 - 2016-11-15
 * Fix: fatal error on PHP 5.2.x
 

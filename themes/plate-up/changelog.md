@@ -4,6 +4,15 @@ slug: plate-up
 menu: user
 title: Changelog
 ---
+## 1.4.5 (2018-05-30)
+* Fix: broken license activation URL
+
+## 1.4.4 (2017-11-27)
+* Add: Style the privacy consent field added in Restaurant Reservations v1.7.7
+
+## 1.4.3 (2017-04-21)
+* Add: support image property in Business Profile v1.1.4
+
 ## 1.4.2 - 2016-11-15
 * Update: styles for new item flag icons in Food and Drink Menu Pro v1.4
 
