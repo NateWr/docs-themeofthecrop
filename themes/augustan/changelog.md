@@ -5,6 +5,9 @@ menu: user
 title: Changelog
 ---
 
+## 1.0.4 (2018-11-14)
+* Fix: typo introduced with previous release
+
 ## 1.0.3 (2018-11-13)
 * Fix: nav menu links with submenu require two taps on mobile phone
 
