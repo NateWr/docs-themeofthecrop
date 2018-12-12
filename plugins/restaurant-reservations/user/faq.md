@@ -68,9 +68,9 @@ The [Custom Fields addon](https://themeofthecrop.com/plugin/custom-fields-restau
 
 Developers who are comfortable coding up plugins for WordPress can add their own fields using the hooks provided. See the [developer documentation](../developer).
 
-## <a name="gdpr"></a>Is this plugin ready for GDPR?
+## <a name="gdpr"></a>Is this plugin compliant with GDPR?
 
-Version 1.7.7 added a couple of features to help your website comply with GDPR, the European privacy laws that will come into effect in 2018.
+This plugin includes a couple of features to help your website comply with GDPR, the European privacy laws that came into effect in 2018.
 
 First, you can add a confirmation field to the booking form that requires customers to consent to the collection of their data. You can configure this confirmation field under the **Bookings > Settings > General > Privacy** section in your WordPress admin area.
 

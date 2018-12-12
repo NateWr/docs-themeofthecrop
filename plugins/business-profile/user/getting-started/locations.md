@@ -20,9 +20,11 @@ When adding or editing a location, you'll be able to manage all the same informa
 
 Each location will automatically have a page generated which displays a contact card for that location. A list of locations can also be found at the archive page, which will typically be at `your-domain.com/location`.
 
+You can also add the Contact Card block to any page or post. Once added, click on the block and change the location in the options panel on the side.
+
 You can also pass an additional `location` argument to the `[contact-card]` shortcode in any page or post. See all the [shortcode attributes](../faq#shortcode).
 
-The Contact Card widget now also includes a **Location** option. You can find this under **Appearance > Widgets**.
+The Contact Card widget also includes a **Location** option. You can find this under **Appearance > Widgets**.
 
 ## Understanding the Schema.org relationship
 

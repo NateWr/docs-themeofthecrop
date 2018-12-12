@@ -4,7 +4,9 @@ slug: food-and-drink-menu
 menu: user
 title: Shortcodes
 ---
-There are two shortcodes available with this plugin, one for displaying a full Menu and one for displaying a single Menu Item. Below you'll find a list of the attributes available.
+There are three shortcodes available with this plugin, one for displaying a full Menu and one for displaying a single Menu Item. Below you'll find a list of the attributes available.
+
+_If you are using WordPress 5.0 or higher, use of the shortcodes is discouraged. You can add your menu, menu section or menu item to any page or post using [../getting-started/display-menu](blocks)._
 
 ## Menu Shortcode
 
@@ -25,3 +27,11 @@ Prints a single menu without the title or description.
 Prints a single menu item as it appears in a menu.
 
 `id` Accepts the ID of the desired menu. Must be an integer.
+
+## Menu Section Shortcode
+
+`[fdm-menu-section id=1]`
+
+Prints a single menu section as it appears in a menu.
+
+`id` Accepts the taxonomy term ID of the desired menu section. Must be an integer.

@@ -4,12 +4,12 @@ slug: food-and-drink-menu
 menu: user
 title: Build menus with complex layouts
 ---
-You may need a menu layout that is more complex than a one- or two-column layout. When these situations arise, there are a few paths you can take.
+You may need a menu layout that is more complex than a one- or two-column layout. When these situations arise, you can use the block editor in WordPress to construct your own layout.
 
-The following tutorials will give you creative solutions to your restaurant needs.
+_The block editor is available for WordPress versions 5.0 and above._
 
-[Create a complex menu layout](https://themeofthecrop.com/2014/07/31/achieve-complex-menu-layouts-food-drink-menu/) by nesting menus in a grid using a simple grid columns shortcode plugin.
+![Screenshot of the page template selection for menus](/img/{{ page.slug }}/page-templates.png)
 
-[Give each section of your menu a unique style](https://themeofthecrop.com/2014/08/19/give-section-restaurant-menu-unique-style/) by targeting it with specific CSS rules.
+If you can not use the block editor, you can [use grid shortcodes](https://themeofthecrop.com/2014/07/31/achieve-complex-menu-layouts-food-drink-menu/) to create complex layouts.
 
-And if you are comfortable modifying code templates, you can also [customize the menu templates](https://themeofthecrop.com/2014/01/28/customize-restaurant-menu-templates/).
+You can also learn more about [writing custom styles](https://themeofthecrop.com/2014/08/19/give-section-restaurant-menu-unique-style/) and even [modifying the code templates](https://themeofthecrop.com/2014/01/28/customize-restaurant-menu-templates/).

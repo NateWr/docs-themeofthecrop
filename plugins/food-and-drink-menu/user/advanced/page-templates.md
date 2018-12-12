@@ -22,4 +22,4 @@ This will show you all the available templates you can use from your theme. They
 
 ---
 
-*WordPress introduced special post type templates in version 4.7. If you theme includes any templates specifically for the `fdm-menu` post type, these will also be available for selection here.*
+*WordPress introduced special post type templates in version 4.7. If your theme includes any templates specifically for the `fdm-menu` post type, these will also be available for selection here.*

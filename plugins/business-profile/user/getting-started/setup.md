@@ -14,6 +14,7 @@ On this page you can enter your business name, contact information and opening h
 
 Business Profile allows you to display these details on any page, post or sidebar.
 
+- Add the Contact Card block to any page or post.
 - Use the `[contact-card]` shortcode in any page or post. See all the [shortcode attributes](../faq#shortcode).
 - Add the Contact Card widget in any sidebar. You'll find this under **Appearance > Widgets**.
 
