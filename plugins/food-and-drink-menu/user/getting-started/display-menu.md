@@ -10,7 +10,7 @@ Once you've [created a menu](create-menu), you can display it on your website in
 
 Add the menu block to any page or post on your site.
 
-![Screenshot of the adding a menu block to a page](/img/{{ page.slug }}/add-block.png)
+![Screenshot of adding a menu block to a page](/img/{{ page.slug }}/add-block.gif)
 
 Blocks are also available for menu sections and menu items.
 

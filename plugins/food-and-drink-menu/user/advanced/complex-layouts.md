@@ -8,7 +8,7 @@ You may need a menu layout that is more complex than a one- or two-column layout
 
 _The block editor is available for WordPress versions 5.0 and above._
 
-![Screenshot of the page template selection for menus](/img/{{ page.slug }}/page-templates.png)
+![Screenshot of building a complex layout in the block editor](/img/{{ page.slug }}/complex-layouts.gif)
 
 If you can not use the block editor, you can [use grid shortcodes](https://themeofthecrop.com/2014/07/31/achieve-complex-menu-layouts-food-drink-menu/) to create complex layouts.
 
