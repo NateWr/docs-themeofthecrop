@@ -6,7 +6,7 @@ title: Shortcodes
 ---
 There are three shortcodes available with this plugin, one for displaying a full Menu and one for displaying a single Menu Item. Below you'll find a list of the attributes available.
 
-_If you are using WordPress 5.0 or higher, use of the shortcodes is discouraged. You can add your menu, menu section or menu item to any page or post using [../getting-started/display-menu](blocks)._
+_If you are using WordPress 5.0 or higher, use of the shortcodes is discouraged. You can add your menu, menu section or menu item to any page or post using [blocks](complex-layouts)._
 
 ## Menu Shortcode
 
